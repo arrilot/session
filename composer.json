@@ -15,7 +15,7 @@
   ],
   "homepage": "https://github.com/arrilot/sessions",
   "require": {
-    "php": "^7.3",
+    "php": ">=5.4.0",
     "illuminate/support": "^7.0"
   },
   "require-dev": {
